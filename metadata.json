@@ -1,0 +1,7 @@
+{
+  "name": "ScholarSphere AI",
+  "description": "A comprehensive research platform for semantic search, knowledge management, and AI-assisted scientific workflows.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
